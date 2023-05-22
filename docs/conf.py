@@ -23,7 +23,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'machinery'
+project = 'machineries'
 copyright = '2023, michael tadnir'
 author = 'michael tadnir'
 

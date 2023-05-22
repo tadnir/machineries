@@ -1,4 +1,4 @@
-Welcome to Machinery's documentation!
+Welcome to Machineries documentation!
 ===========================================
 
 This framework implements machine control.
