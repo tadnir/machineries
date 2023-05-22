@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "machineries"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python framework for controlling machines"
 authors = ["michael tadnir <tadnir50@gmail.com>"]
 license = "MIT"
